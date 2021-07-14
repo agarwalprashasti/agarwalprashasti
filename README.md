@@ -1,6 +1,6 @@
 
 
-<a href="#"><img src="https://user-images.githubusercontent.com/21233020/125488683-25f4852d-5318-4ef5-b37e-451b79d45cdb.PNG" align="center" height="330" width="1080" ></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/21233020/125488683-25f4852d-5318-4ef5-b37e-451b79d45cdb.PNG" align="center" height="330" width="1020" ></a>
 
 <!-- 
 [![MasterHead](https://user-images.githubusercontent.com/21233020/125488683-25f4852d-5318-4ef5-b37e-451b79d45cdb.PNG )](https://agarwalprashasti.github.io)
@@ -42,4 +42,4 @@ https://user-images.githubusercontent.com/21233020/125540741-c37023d8-a202-4465-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalprashasti&" alt="agarwalprashasti" /></p>
 
 
-
+<p align="center"><img align="center"  alt="Coding" width="250" src="https://user-images.githubusercontent.com/21233020/125554378-e2ee539c-14cf-470a-b43e-94c50ebc36d3.png"></p>
