@@ -42,4 +42,4 @@ https://user-images.githubusercontent.com/21233020/125540741-c37023d8-a202-4465-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalprashasti&" alt="agarwalprashasti" /></p>
 
 
-<p align="center"><img align="center"  alt="Coding" width="250" src="https://user-images.githubusercontent.com/21233020/125554378-e2ee539c-14cf-470a-b43e-94c50ebc36d3.png"></p>
+<p align="center"><img align="center"  alt="Coding" width="250" src="https://user-images.githubusercontent.com/21233020/125554746-835fb4bc-d4a2-48b2-a75d-1f5cb0edf4d3.PNG"></p>
