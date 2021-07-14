@@ -4,11 +4,12 @@
 
 <!-- 
 [![MasterHead](https://user-images.githubusercontent.com/21233020/125488683-25f4852d-5318-4ef5-b37e-451b79d45cdb.PNG )](https://agarwalprashasti.github.io)
+https://user-images.githubusercontent.com/21233020/125540741-c37023d8-a202-4465-9669-8d8d25bf9f4a.gif
 -->
 <h1 align="center">Hi 👋, I'm Prashasti Agarwal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/21233020/125552550-340c4896-ebb4-4171-adb6-ced2644fd1f8.gif">
 
 
 - 💻 I am a Web Developer currently learning ReactJS
