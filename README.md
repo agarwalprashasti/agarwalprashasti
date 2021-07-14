@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/21233020/125540741-c37023d8-a202-4465-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalprashasti&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalprashasti" /> </p>
 
-<h3 align="left">Connect with me:  <a href="agarwalprashasti1999@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/21233020/125482120-58b0740e-4dba-4e0a-90bd-add95e6d1490.png" alt="Email" height="30" width="30" /></a>
+<h3 align="left">Connect with me:  <a href="mailto:agarwalprashasti1999@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/21233020/125482120-58b0740e-4dba-4e0a-90bd-add95e6d1490.png" alt="Email" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/agarwalprashasti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwalprashasti" height="30" width="40" /></a></h3>
 
   <h3 align="left">My coding profiles: 
